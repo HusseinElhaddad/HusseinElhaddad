@@ -66,7 +66,7 @@ Improved **Precision@3 from 62% → 81%** on a custom 250-pair Arabic QA dataset
 
 ---
 
-### 🍽️ [So3ratk — Food Detection System](https://github.com/husseinelhaddad/so3ratk)
+### 🍽️ [So3ratk — Food Detection System](https://github.com/MoBahgat010/So3ratk)
 > Python · YOLOv8 · FastAPI · Streamlit · Docker
 
 YOLOv8 model trained on 5K+ annotated food images achieving **0.82 mAP@50**. Dockerized FastAPI + Streamlit pipeline with **30% latency reduction** for real-time inference.
