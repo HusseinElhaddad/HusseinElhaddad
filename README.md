@@ -16,13 +16,12 @@
 
 ## 🧠 About Me
 
-AI Engineer based in Cairo, Egypt. I build end-to-end ML and LLM-powered systems — from RAG pipelines and computer vision APIs to MLOps tooling. Currently contributing to open source at **NumFOCUS/ArviZ** and exploring scalable AI deployment.
+AI Engineer. I build end-to-end ML and LLM-powered systems — from RAG pipelines and computer vision APIs to MLOps tooling. Currently contributing to open source at **NumFOCUS/ArviZ** and exploring scalable AI deployment.
 
 - 🎓 B.Eng. Communication & Information Engineering — Helwan University (2022–2027)
 - 🔭 Currently building: **ArabiQ** — Arabic Document Intelligence with hybrid RAG
 - 🌱 Expanding into: MLOps, CI/CD for ML, scalable LLM serving
 - 🏆 ECPC 2025 Participant — solved 4 problems
-- 📍 Cairo, Egypt · Open to remote roles
 
 ---
 
@@ -102,17 +101,6 @@ YOLOv8 model trained on 5K+ annotated food images achieving **0.82 mAP@50**. Doc
 Standardizing DevOps tooling (tox, mypy, pytest) across modules; building CI workflows for upstream scientific Python testing.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=husseinelhaddad&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💼 Experience Highlights
-
-| Role | Org | Period |
-|---|---|---|
-| Open Source Contributor | NumFOCUS / ArviZ | Apr 2026 – Present |
-| ML Engineer | DEPI | Jun – Dec 2025 |
-| Generative AI Specialist | ITI | Sep – Dec 2025 |
-| Software Engineer Intern | EJADA Systems | Jul – Aug 2025 |
 
 ---
 
